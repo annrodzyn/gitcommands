@@ -10,7 +10,7 @@ git add <filename>
 git add .
 add changes to stage (index) in your working directory
 
-git touch <namefile>
+touch <namefile>
 add files to the current index
 
 git status
@@ -32,5 +32,5 @@ push or pull changes to remote repository
 git merge
 merge two branches you were working on
 
-git cd ~/track
+cd ~/track
 continue to work 
